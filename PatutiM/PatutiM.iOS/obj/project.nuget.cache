@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hbm1DoRR4VXt2fWy8BCEyKjj+4Z7tyHhAUZGyptvlbU52eelFmiUeaMPkub0bYfSUXCT+BisULygxfNg+XDmiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nikola Tesla\\source\\repos\\PatutiM\\PatutiM\\PatutiM.iOS\\PatutiM.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikola Tesla\\.nuget\\packages\\skiasharp\\2.80.3\\skiasharp.2.80.3.nupkg.sha512",
+    "C:\\Users\\Nikola Tesla\\.nuget\\packages\\skiasharp.views\\2.80.3\\skiasharp.views.2.80.3.nupkg.sha512",
+    "C:\\Users\\Nikola Tesla\\.nuget\\packages\\skiasharp.views.forms\\2.80.3\\skiasharp.views.forms.2.80.3.nupkg.sha512",
+    "C:\\Users\\Nikola Tesla\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Nikola Tesla\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

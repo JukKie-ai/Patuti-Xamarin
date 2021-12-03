@@ -1,0 +1,8 @@
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM.iOS\obj\iPhone\Debug\optimized\
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM.iOS\obj\iPhone\Debug\PatutiM.iOS.csprojAssemblyReference.cache
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM.iOS\obj\iPhone\Debug\PatutiM.iOS.csproj.CoreCompileInputs.cache
