@@ -1,0 +1,43 @@
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.AssemblyInfoInputs.cache
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.AssemblyInfo.cs
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.csproj.CoreCompileInputs.cache
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.dll
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\ref\PatutiM.dll
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.pdb
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\bin\Debug\netstandard2.0\PatutiM.deps.json
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\bin\Debug\netstandard2.0\PatutiM.dll
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\bin\Debug\netstandard2.0\ref\PatutiM.dll
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\bin\Debug\netstandard2.0\PatutiM.pdb
+C:\Users\HYEUMINE\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\bin\Debug\netstandard2.0\PatutiM.deps.json
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\bin\Debug\netstandard2.0\PatutiM.dll
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\bin\Debug\netstandard2.0\ref\PatutiM.dll
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\bin\Debug\netstandard2.0\PatutiM.pdb
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.csproj.AssemblyReference.cache
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.AssemblyInfoInputs.cache
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.AssemblyInfo.cs
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.dll
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\ref\PatutiM.dll
+C:\Users\Stephen\Desktop\New folder\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.pdb
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\bin\Debug\netstandard2.0\PatutiM.deps.json
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\bin\Debug\netstandard2.0\PatutiM.dll
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\bin\Debug\netstandard2.0\ref\PatutiM.dll
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\bin\Debug\netstandard2.0\PatutiM.pdb
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.csproj.AssemblyReference.cache
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.AssemblyInfoInputs.cache
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.AssemblyInfo.cs
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.dll
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\ref\PatutiM.dll
+C:\Users\Nikola Tesla\source\repos\PatutiM\PatutiM\PatutiM\obj\Debug\netstandard2.0\PatutiM.pdb
